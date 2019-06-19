@@ -7,5 +7,5 @@ git add .
 git commit -am "Add new text"
 ::push to git remote repository
 
-git push --set-upstream "https://github.com/MaheshMahi496/SampleProject.git" master
+git push --set-upstream "https://github.com/MaheshMahi496/samplep.git" master
 Pause
