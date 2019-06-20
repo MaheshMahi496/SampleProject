@@ -1,4 +1,5 @@
 cd C:\Users\mrasakonda\Desktop\InputData
+git init
 ::switch to branch you want to use
 git checkout master
 ::add all added/modified files
