@@ -116,7 +116,7 @@
         <con:config xsi:type="con:DataSourceStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <con:dataSource type="Excel">
             <con:configuration>
-              <file>C:\Users\mrasakonda\.jenkins\workspace\DemoProj\Output\GET.xls</file>
+              <file>C:\Users\mrasakonda\.jenkins\workspace\SampleProject\GET.xlsx</file>
               <worksheet/>
               <cell>A2</cell>
               <ignoreEmpty>false</ignoreEmpty>
@@ -220,7 +220,7 @@ return "FAIL"
           <con:dataSink type="Excel">
             <con:configuration>
               <file/>
-              <outfile>C:\Users\mrasakonda\.jenkins\workspace\DemoProj\Output\GET.xls</outfile>
+              <outfile>C:\Users\mrasakonda\.jenkins\workspace\SampleProject\GET.xlsx</outfile>
               <worksheet>BMO</worksheet>
               <cell>M2</cell>
               <evaluateFormulas>false</evaluateFormulas>
